@@ -1,8 +1,8 @@
 # About project
 
-<p align="center" width="140px" height="140px">
+<div align="center" width="140px" height="140px">
   <img src="./logo.png" alt="image/>
-</p>
+</div>
 
 2D платформер, разработанный на движке Unity.
 
