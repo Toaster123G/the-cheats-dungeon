@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Equirement
+  - Feet
+  - Damage
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1814788633
+    locked: 0
+  - name: Walls
+    uniqueID: 1306563337
+    locked: 0
+  - name: Equirement
+    uniqueID: 1830739331
+    locked: 0
+  - name: Damage
+    uniqueID: 1287808849
+    locked: 0
+  - name: Player
+    uniqueID: 930901273
+    locked: 0
+  - name: Enemy
+    uniqueID: 3040673599
+    locked: 0
+  - name: ParalaxLayer
+    uniqueID: 3733699369
+    locked: 0
+  m_RenderingLayers:
+  - Default
